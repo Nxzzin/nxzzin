@@ -1,11 +1,7 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Nxzzin, doing a lot of things for Hobbie 👨‍🔧</div>  
+<div align="center">I'm Nxzzin, doing a lot of things for Hobbie 👨‍🔧</div>  
   
-
+<br><br/>
 - 🔭 I’m currently working on [StarTranslator](https://github.com/Nxzzin/Star-Translator) and [Brazilian Localization](https://github.com/Dymerz/StarCitizen-Localization/tree/main/data/Localization/portuguese_(brazil)) for Star Citizen  
   
 
